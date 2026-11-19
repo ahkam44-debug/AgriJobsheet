@@ -1,0 +1,6 @@
+{
+  "name": "AgriSemangka - Job Sheet Budidaya & Evaluasi Siswa SMK ATPH",
+  "description": "Aplikasi pembelajaran dan evaluasi budidaya semangka di lahan praktik SMK berbasis Jobsheet PT East West Seed Indonesia. Dilengkapi logbook foto offline/online, kuis kompetensi, asesmen unjuk kerja, analitik multi-peran, notifikasi jadwal, dan ekspor laporan PDF.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
